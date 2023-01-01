@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://martun-avagyan.github.io/csb-qnvnnb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://martun-avagyan.github.io/csb-qnvnnb/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://martun-avagyan.github.io/csb-qnvnnb/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://martun-avagyan.github.io/csb-qnvnnb/static/js/runtime-main.de6373b1.js",
+    "runtime-main.js.map": "https://martun-avagyan.github.io/csb-qnvnnb/static/js/runtime-main.de6373b1.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://martun-avagyan.github.io/csb-qnvnnb/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://martun-avagyan.github.io/csb-qnvnnb/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://martun-avagyan.github.io/csb-qnvnnb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://martun-avagyan.github.io/csb-qnvnnb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://martun-avagyan.github.io/csb-qnvnnb/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de6373b1.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
